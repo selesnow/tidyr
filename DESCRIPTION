@@ -42,6 +42,7 @@ Suggests:
     readr,
     testthat
 Remotes:
+    selesnow/getProxy,
     r-lib/vctrs,
     r-lib/rlang
 LinkingTo: 
